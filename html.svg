@@ -63,7 +63,7 @@
 				}
 
                 .background {
-                    background-image: url('mountain.jpg');
+                    background-image: url('https://raw.githubusercontent.com/ryankoch13/ryankoch13/main/mountain.jpg');
                     background-attachment: fixed;
                     background-position: center;
                     background-repeat: no-repeat;
