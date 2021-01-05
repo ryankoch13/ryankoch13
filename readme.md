@@ -33,7 +33,7 @@
 [![Apartment App](https://img.shields.io/badge/-🏠_Apartment_App-000000?style=flat)](https://github.com/ryankoch13/apartment-app-ryankoch13)
 [![RyanChat](https://img.shields.io/badge/-📱_RyanChat-B8860B?style=flat)](https://github.com/adamalston/Summarizer)
 [![Memories Blog](https://img.shields.io/badge/-📰_Memories_Blog-000000?style=flat)](https://github.com/ryankoch13/MERN-App)
-[![Red Coach](https://img.shields.io/badge/-🚀_RedCoach_E-Commerce-000000?style=flat)](https://github.com/ryankoch13/redcoach_e_commerce)
+[![Red Coach](https://img.shields.io/badge/-🚀_RedCoach_E_Commerce-000000?style=flat)](https://github.com/ryankoch13/redcoach_e_commerce)
 [![Cat Tinder](https://img.shields.io/badge/-🐱_Cat_Tinder-000000?style=flat)](https://github.com/ryankoch13/cat-tinder-frontend-maine-coon)
 
 **Other projects**
