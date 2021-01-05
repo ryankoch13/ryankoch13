@@ -1,4 +1,4 @@
-[![Header](https://github.com/ryankoch13/ryankoch13/raw/master/profile.gif)](ryankoch.me)
+[![Header](https://github.com/ryankoch13/ryankoch13/master/profile.gif)](ryankoch.me)
 
 [![ryankoch.me](https://img.shields.io/badge/-RYANKOCH.ME-000000?style=for-the-badge&logo=react&logoColor=white)](ryankoch.me) <---- Check out my website!!
 
