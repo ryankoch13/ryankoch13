@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/ryankoch13/ryankoch13/main/profile.gif)](ryankoch.me)
 
-[![ryankoch.me](https://img.shields.io/badge/-RYANKOCH.ME-000000?style=for-the-badge&logo=react&logoColor=white)](ryankoch.me) <---- Check out my website!!
+[![ryankoch.me](https://img.shields.io/badge/-💜_RYANKOCH.ME-000000?style=for-the-badge)](ryankoch.me) <---- Check out my website!!
 
 **Languages I have worked with**
 
@@ -13,7 +13,7 @@
 
 **Some of the technologies I have worked with**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&color=DC143C)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=DC143C)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
