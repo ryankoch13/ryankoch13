@@ -31,7 +31,7 @@
 
 [![My Website](https://img.shields.io/badge/-%F0%9F%99%88_My_Website-000000?style=flat)](https://github.com/ryankoch13/ryankoch13.github.io)
 [![Apartment App](https://img.shields.io/badge/-🏠_Apartment_App-000000?style=flat)](https://github.com/ryankoch13/apartment-app-ryankoch13)
-[![RyanChat](https://img.shields.io/badge/-📱_RyanChat-B8860B?style=flat)](https://github.com/adamalston/Summarizer)
+[![RyanChat](https://img.shields.io/badge/-📱_RyanChat-B8860B?style=flat)](https://github.com/ryankoch13/RyanChat-Production)
 [![Memories Blog](https://img.shields.io/badge/-📰_Memories_Blog-000000?style=flat)](https://github.com/ryankoch13/MERN-App)
 [![Red Coach](https://img.shields.io/badge/-🚀_RedCoach_E_Commerce-000000?style=flat)](https://github.com/ryankoch13/redcoach_e_commerce)
 [![Cat Tinder](https://img.shields.io/badge/-🐱_Cat_Tinder-000000?style=flat)](https://github.com/ryankoch13/cat-tinder-frontend-maine-coon)
