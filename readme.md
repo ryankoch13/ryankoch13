@@ -1,6 +1,7 @@
-[![Header](https://raw.githubusercontent.com/ryankoch13/ryankoch13/main/profile.gif)](ryankoch.me)
+[![Header](https://raw.githubusercontent.com/ryankoch13/ryankoch13/main/profile.gif)](https://ryankoch.me)
 
-[![ryankoch.me](https://img.shields.io/badge/-💜_RYANKOCH.ME-000000?style=for-the-badge)](ryankoch.me) <---- Check out my website!!
+[![ryankoch.me](https://img.shields.io/badge/-💜_RYANKOCH.ME-000000?style=for-the-badge)](https://ryankoch.me) <---- Check out my website!!
+
 
 **Languages I have worked with**
 
