@@ -2,7 +2,7 @@
 
 [![ryankoch.me](https://img.shields.io/badge/-💜_RYANKOCH.ME-000000?style=for-the-badge)](https://ryankoch.me) <---- Check out my website!!
 
-[![https://github.com/ryanindicio](https://img.shields.io/badge/-💜_Work Github-000000?style=flat&logo=Github)](https://github.com/ryanindicio)
+![https://github.com/ryanindicio](https://img.shields.io/badge/-Work Github-000000?style=flat&logo=Github)](https://github.com/ryanindicio)
 
 
 **Languages I have worked with**
