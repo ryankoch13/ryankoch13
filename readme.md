@@ -2,8 +2,6 @@
 
 [![ryankoch.me](https://img.shields.io/badge/-💜_RYANKOCH.ME-000000?style=for-the-badge)](https://ryankoch.me) <---- Check out my website!!
 
-[![](https://img.shields.io/badge/-Old%20Github-000000?style=for-the-badge&logo=Github)](https://github.com/ryanindicio)
-
 
 
 
