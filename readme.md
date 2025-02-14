@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/ryankoch13/ryankoch13/main/profile.gif)](ryankoch.me)
+
 [![ryankoch.me](https://img.shields.io/badge/-💜_RYANKOCH.ME-000000?style=for-the-badge)](https://ryankoch.me)
 
 
