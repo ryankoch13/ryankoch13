@@ -6,9 +6,9 @@
 **Languages I have worked with**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]()
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)]()
-[![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=8B0000)]()
-[![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=007ACC)]()
+[![Ruby](https://img.shields.io/badge/Ruby-000000?logo=Ruby&logoColor=8B0000)]()
+[![Python](https://img.shields.io/badge/Python-000000?logo=python)]()
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)]()
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)]()
