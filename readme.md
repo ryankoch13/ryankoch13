@@ -23,8 +23,8 @@
 
 	[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)]()
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
-[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]()
+[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)]()
+[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)]()
 [![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)]()
