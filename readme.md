@@ -2,7 +2,6 @@
 
 [![ryankoch.me](https://img.shields.io/badge/-💜_RYANKOCH.ME-000000?style=for-the-badge)](https://ryankoch.me)
 
-
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ryan-koch13/)
 
 **Languages I have worked with**
@@ -20,7 +19,7 @@
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://ryankoch.me)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://ryankoch.me)
 [![Angular](https://img.shields.io/badge/Angular-%2320232a.svg?logo=angular&logoColor=%23DD0031)](https://ryankoch.me)
-[![Rails](https://img.shields.io/badge/Rails-%2320232a.svg?logo=ruby-on-rails&logoColor=%23CC0000)](https://ryankoch.me)
+[![Ruby on Rails](https://img.shields.io/badge/Rails-%2320232a.svg?logo=ruby-on-rails&logoColor=%23CC0000)](https://ryankoch.me)
 [![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?logo=node.js&logoColor=6DA55F)](https://ryankoch.me)
 
 **Standard web design**
