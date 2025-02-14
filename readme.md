@@ -21,7 +21,7 @@
 [![Rails](https://img.shields.io/badge/Rails-%2320232a.svg?logo=ruby-on-rails&logoColor=%23CC0000)]()
 [![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?logo=node.js&logoColor=6DA55F)]()
 
-**Styling and markdowns**
+**Standard webdesign**
 
 [![CSS](https://img.shields.io/badge/CSS-%2320232a?logo=css3&logoColor=1572B6)]()
 [![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?logo=html5&logoColor=%23E34F26)]()
