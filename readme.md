@@ -21,7 +21,6 @@
 
 **Styling and markdowns**
 
-	[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)]()
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]()
 [![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)]()
